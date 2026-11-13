@@ -10,4 +10,4 @@ We are the **Healthcare AI (HAI)** Lab at the Department of Data Science and Art
 - Medical foundation models
 
 ## Contact
-- Email: polyuaih.lab@gmail.com
+- Email: polyuhai.lab@gmail.com
